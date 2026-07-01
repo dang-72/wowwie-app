@@ -1,4 +1,3 @@
-# wowwie-app
 # 🚀 Welcome to Wowwie!
 
 | 📥 Download Installer | 📖 Read the Manual |
