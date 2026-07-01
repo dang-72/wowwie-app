@@ -8,7 +8,7 @@ This guide reflects the current app (macOS-v1.1).
 
 ## What You Need
 
-- **iPhone, iPad, or Mac** running Wowwie
+- **iPhone, iPad, or Mac** running Wowwie  (iPhone and IPad not currently available)
 - **MP3 or WAV** audio files on your device or computer
 - **WOW machine** (USB storage device) for downloading crates — download is available on **Mac** when the device is connected
 
